@@ -5,7 +5,7 @@
 
 ---
 
-I am a systems engineer with over 7 years of experience in software development, focusing on web technologies. As a Senior Full Stack Engineer, I have led teams in project planning, development, and ongoing product support, ensuring objectives are met and best practices are followed.
+I am a systems engineer with over 8 years of experience in software development, focusing on web technologies. As a Senior Full Stack Engineer, I have led teams in project planning, development, and ongoing product support, ensuring objectives are met and best practices are followed.
 
 I am enthusiastic and responsible, valuing tolerance, respect, and honesty in the workplace. Always eager to take on new challenges and learn from every experience.
 
